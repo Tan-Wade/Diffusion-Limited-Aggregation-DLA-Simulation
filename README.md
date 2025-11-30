@@ -182,7 +182,7 @@ DLA簇具有分形结构，其分形维数约为1.7（二维情况下）。本�
 
 ## 作者
 
-Zeyuan - Summer Project
+Zeyuan Wei
 
 ## 许可证
 
